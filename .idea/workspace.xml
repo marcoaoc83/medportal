@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="592e8529-5436-402a-80ba-223b55a52a23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/classes/Test.class.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/test.page.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/test.tpl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/index.page.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/index.page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/development/db.conf.php" beforeDir="false" afterPath="$PROJECT_DIR$/conf/development/db.conf.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/system.default.conf.php" beforeDir="false" afterPath="$PROJECT_DIR$/conf/system.default.conf.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springy/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/springy/Kernel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springy/URI.php" beforeDir="false" afterPath="$PROJECT_DIR$/springy/URI.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/production/db.conf.php" beforeDir="false" afterPath="$PROJECT_DIR$/conf/production/db.conf.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1628797592458</updated>
-      <workItem from="1628797593653" duration="9187000" />
+      <workItem from="1628797593653" duration="9651000" />
     </task>
     <servers />
   </component>

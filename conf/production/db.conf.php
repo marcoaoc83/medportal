@@ -18,7 +18,7 @@
  *
  *  \see dbcfg
  */
-/**@{*/
+/** */
 
 /// Configurações para o ambiente de Produção
 $conf = [
@@ -34,10 +34,10 @@ $conf = [
     ],
     'default' => [
         'database_type' => 'mysql',
-        'host_name'     => '',
-        'user_name'     => '',
-        'password'      => '',
-        'database'      => '',
+        'host_name'     => 'dt3bgg3gu6nqye5f.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+        'user_name'     => 'e1zzvxwfgsa0fzdj',
+        'password'      => 'llmi7y2fqbefz2dw',
+        'database'      => 'zz5g8faxudz3ha83',
         'charset'       => 'utf8',
         'persistent'    => false,
     ],
