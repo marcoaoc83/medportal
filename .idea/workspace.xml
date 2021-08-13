@@ -102,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1628797592458</updated>
-      <workItem from="1628797593653" duration="10185000" />
+      <workItem from="1628797593653" duration="11382000" />
     </task>
     <task id="LOCAL-00001" summary="HEROKU">
       <created>1628875284611</created>
@@ -111,21 +111,44 @@
       <option name="project" value="LOCAL" />
       <updated>1628875284613</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HEROKU">
+      <created>1628875813092</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628875813092</updated>
+    </task>
+    <task id="LOCAL-00003" summary="HEROKU">
+      <created>1628875965748</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1628875965748</updated>
+    </task>
+    <task id="LOCAL-00004" summary="HEROKU">
+      <created>1628876105307</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1628876105307</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="HEROKU" />
     <option name="LAST_COMMIT_MESSAGE" value="HEROKU" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1628875278733">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1628876099242">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1628875278733" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1628876099242" />
     <state width="1323" height="214" key="GridCell.Tab.0.bottom" timestamp="1628875263892">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -174,10 +197,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="214" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1628875263895" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1628875294940">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1628876610199">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1628875294940" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1628876610199" />
     <state width="1329" height="372" key="XDebugger.FullValuePopup" timestamp="1628811170101">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -186,6 +209,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="390" y="97" width="585" height="534" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1628810172588" />
+    <state x="479" y="255" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1628876620413">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="255" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1628876620413" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
