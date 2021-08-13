@@ -7,10 +7,8 @@
  *  \ingroup    controllers
  */
 use Springy\Controller;
-use Springy\Kernel;
-use Springy\URI;
 
-class Index_Controller extends Controller
+class Test_Controller extends Controller
 {
     /**
      *  \brief Método principal (default).
@@ -24,9 +22,11 @@ class Index_Controller extends Controller
 //        Springy\Kernel::debug('Exemplo de debug 1');
 //        Springy\Kernel::debug('Exemplo de debug 2', 'Exemplo com título');
 //        Springy\Kernel::debug('Exemplo de debug 3', 'Título do Exemplo 3', false, false);
-
+        $linha= new Test();
+        $linha->query();
         $tpl = $this->_template();
         $tpl->assign('date', $date);
+        $tpl->assign('linha', $linha->all());
         $tpl->display();
     }
 }

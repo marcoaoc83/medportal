@@ -18,7 +18,7 @@
  *
  *  \see dbcfg
  */
-/**@{*/
+/**  */
 
 /// Configurações para o ambiente de Desenvolvimento
 $conf = [
@@ -34,10 +34,10 @@ $conf = [
     ],
     'default' => [
         'database_type' => 'mysql',
-        'host_name'     => '',
-        'user_name'     => '',
+        'host_name'     => '127.0.0.1',
+        'user_name'     => 'root',
         'password'      => '',
-        'database'      => '',
+        'database'      => 'medportal',
         'charset'       => 'utf8',
         'persistent'    => false,
     ],

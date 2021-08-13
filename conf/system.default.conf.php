@@ -23,7 +23,7 @@
  *  	deverá estar no diretório da biblioteca do sistema.
  */
 $conf = [
-    'debug'              => true,
+    'debug'              => false,
     'ignore_deprecated'  => false,
     'rewrite_url'        => true,
     'cache-control'      => 'private, must-revalidate',

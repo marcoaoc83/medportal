@@ -106,7 +106,7 @@ class URI
 
         // Processa a URI e separa os segmentos
         $Segments = [];
-        $SegNum = 0;
+        $SegNum = 3;
         foreach (explode('/', preg_replace('|/*(.+?)/*$|', '\\1', $UriString)) as $val) {
             $val = trim($val);
 

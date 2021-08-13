@@ -175,7 +175,7 @@ class Kernel
         }
 
         /// The command
-        $command = URI::getSegment(0, false);
+        $command = URI::getSegment(3, false);
 
         switch ($command) {
             case '_':
